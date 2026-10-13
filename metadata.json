@@ -1,0 +1,7 @@
+{
+  "name": "StudentOS",
+  "description": "The all-in-one operating system for engineering college students to manage academics, scholarships, internships, placement preparation, coding, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
